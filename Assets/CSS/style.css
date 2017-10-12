@@ -1,0 +1,12 @@
+body {
+	background-image: url(../images/dark_embroidery.png);
+	color: white;
+}
+
+#maincontainer {
+	border: solid 2px red;
+}
+
+#table {
+	border: solid 2px green;
+}
